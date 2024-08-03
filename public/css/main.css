@@ -1848,6 +1848,10 @@ details.collapse summary::-webkit-details-marker {
   height: 100%;
 }
 
+.h-\[\] {
+  height: ;
+}
+
 .min-h-\[100px\] {
   min-height: 100px;
 }
